@@ -1,4 +1,4 @@
-# Read array input
+# Read array input..
 arr = list(map(int, input().split()))
 
 # Read key
