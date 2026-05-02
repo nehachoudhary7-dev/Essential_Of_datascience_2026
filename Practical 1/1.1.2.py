@@ -7,3 +7,4 @@ elif(x>99 and x<=999):
 	print(f"{x**(1/3):.2f}")
 else:
 	print("Invalid")
+# 1.1.2
