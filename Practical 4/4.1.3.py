@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Read the text file into a DataFrame
+
 file = input()
 data = pd.read_csv(file, sep="\s+", header=None, names=["Name", "Age", "Grade"])
 
