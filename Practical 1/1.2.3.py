@@ -4,3 +4,4 @@ for i in range(1,n+1):
 		print("*",end=" ")
 	print()
   
+# 1.2.3
