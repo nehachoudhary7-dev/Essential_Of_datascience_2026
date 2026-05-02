@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Provided dictionary of lists
+
 data = {
     'Name': ['Alice', 'Bob', 'Charlie'],
     'Age': [25, 30, 35],
